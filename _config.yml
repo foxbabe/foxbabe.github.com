@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://foxbabe.github.com
+url: http://foxbabe-devblog.com
 title: FoxBabe Dev Blog
 subtitle: 技术人生
 author: FoxBabe
@@ -68,10 +68,6 @@ github_user:
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
-
-# Twitter
-twitter_user:
-twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
