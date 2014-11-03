@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://foxbabe-devblog.com/sitemap.xml 
+Sitemap: http://foxbabe.github.com/sitemap.xml 
