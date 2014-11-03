@@ -1,95 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>FoxBabe Dev Blog</title>
-  <meta name="author" content="FoxBabe">
-
-  
-  <meta name="description" content="说明 版本信息 2014.08.01 V1.0 创建iOS代码库维护流程说明初版 文档目的 约定代码库提交流程，方便后期代码库的补充
-约定代码库审核流程，保证提交代码质量
-问题反馈方式，便于代码库完善 文档简介 文档主要从四个方面来阐述iOS代码库维护流程： 代码提交流程说明， &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://foxbabe-devblog.com">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="FoxBabe Dev Blog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">FoxBabe Dev Blog</a></h1>
-  
-    <h2>技术人生</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:foxbabe-devblog.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[FoxBabe Dev Blog]]></title>
+  <link href="http://foxbabe-devblog.com/atom.xml" rel="self"/>
+  <link href="http://foxbabe-devblog.com/"/>
+  <updated>2014-11-03T11:39:58+08:00</updated>
+  <id>http://foxbabe-devblog.com/</id>
+  <author>
+    <name><![CDATA[FoxBabe]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2014/11/02/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming/">iOS代码库维护流程说明</a></h1>
-    
-    
-      <p class="meta">
-        
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-
-
-
-<time class='entry-date' datetime='2014-11-02T23:38:33+08:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2014</span></span> <span class='time'>11:38 pm</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>说明</h2>
+  
+  <entry>
+    <title type="html"><![CDATA[iOS代码库维护流程说明]]></title>
+    <link href="http://foxbabe-devblog.com/blog/2014/11/02/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming/"/>
+    <updated>2014-11-02T23:38:33+08:00</updated>
+    <id>http://foxbabe-devblog.com/blog/2014/11/02/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming</id>
+    <content type="html"><![CDATA[<h2>说明</h2>
 
 <h3>版本信息</h3>
 
@@ -320,91 +249,16 @@ Xcode 5.0, iOS 6.0及以上
 
 <pre><code>iOS代码库分享，当代码库新纳入的控件数量超过10个时，由代码库维护小组安排安排，进行代码库分享交流。
 </code></pre>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[初次使用octopress创建博客]]></title>
+    <link href="http://foxbabe-devblog.com/blog/2014/11/02/chu-ci-shi-yong-octopresschuang-jian-bo-ke/"/>
+    <updated>2014-11-02T00:27:21+08:00</updated>
+    <id>http://foxbabe-devblog.com/blog/2014/11/02/chu-ci-shi-yong-octopresschuang-jian-bo-ke</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/11/02/chu-ci-shi-yong-octopresschuang-jian-bo-ke/">初次使用octopress创建博客</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2014-11-02T00:27:21+08:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2014</span></span> <span class='time'>12:27 am</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">
-</div>
-  
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2014/11/02/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming/">iOS代码库维护流程说明</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/11/02/chu-ci-shi-yong-octopresschuang-jian-bo-ke/">初次使用octopress创建博客</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - FoxBabe -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
