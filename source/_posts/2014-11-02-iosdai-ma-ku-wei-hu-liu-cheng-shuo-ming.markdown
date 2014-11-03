@@ -1,17 +1,10 @@
 ---
 layout: post
-title: "ios代码库维护流程说明"
+title: "iOS代码库维护流程说明"
 date: 2014-11-02 23:38:33 +0800
 comments: true
 categories: 
 ---
-# iOS代码库维护流程说明
-
-标签（空格分隔）： iOS 代码库 
-
----
-
-[TOC]
 
 ## 说明
 ### 版本信息
