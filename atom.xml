@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[FoxBabe Dev Blog]]></title>
-  <link href="http://foxbabe.github.com/atom.xml" rel="self"/>
-  <link href="http://foxbabe.github.com/"/>
-  <updated>2014-11-04T01:03:31+08:00</updated>
-  <id>http://foxbabe.github.com/</id>
+  <link href="www.devfoxbabe.com/atom.xml" rel="self"/>
+  <link href="www.devfoxbabe.com/"/>
+  <updated>2014-11-04T08:50:29+08:00</updated>
+  <id>www.devfoxbabe.com/</id>
   <author>
     <name><![CDATA[FoxBabe]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[iOS代码库]]></title>
-    <link href="http://foxbabe.github.com/blog/20141103/iosdai-ma-ku.html"/>
+    <link href="www.devfoxbabe.com/blog/20141103/iosdai-ma-ku.html"/>
     <updated>2014-11-03T23:53:21+08:00</updated>
-    <id>http://foxbabe.github.com/blog/20141103/iosdai-ma-ku</id>
+    <id>www.devfoxbabe.com/blog/20141103/iosdai-ma-ku</id>
     <content type="html"><![CDATA[<h2>说明</h2>
 
 <h3>版本信息</h3>
@@ -973,9 +973,9 @@ iOSCodeProject (项目名称，可根据实际进行修改)
   
   <entry>
     <title type="html"><![CDATA[iOS代码库维护流程说明]]></title>
-    <link href="http://foxbabe.github.com/blog/20141102/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming.html"/>
+    <link href="www.devfoxbabe.com/blog/20141102/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming.html"/>
     <updated>2014-11-02T23:38:33+08:00</updated>
-    <id>http://foxbabe.github.com/blog/20141102/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming</id>
+    <id>www.devfoxbabe.com/blog/20141102/iosdai-ma-ku-wei-hu-liu-cheng-shuo-ming</id>
     <content type="html"><![CDATA[<h2>说明</h2>
 
 <h3>版本信息</h3>
