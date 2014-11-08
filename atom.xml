@@ -4,7 +4,7 @@
   <title><![CDATA[FoxBabe Dev Blog]]></title>
   <link href="devfoxbabe.com/atom.xml" rel="self"/>
   <link href="devfoxbabe.com/"/>
-  <updated>2014-11-08T21:37:57+08:00</updated>
+  <updated>2014-11-08T22:03:12+08:00</updated>
   <id>devfoxbabe.com/</id>
   <author>
     <name><![CDATA[FoxBabe]]></name>
@@ -18,7 +18,25 @@
     <link href="devfoxbabe.com/blog/20141108/chuang-jian-xcodezi-ding-yi-wen-jian-mo-ban.html"/>
     <updated>2014-11-08T21:37:08+08:00</updated>
     <id>devfoxbabe.com/blog/20141108/chuang-jian-xcodezi-ding-yi-wen-jian-mo-ban</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>前言</h1>
+
+<hr />
+
+<p>自从团队执行代码规范以来，对于直接继承系统控件编写的方式，如继承最常用的UIViewController控制器，系统会自动生成一些默认父类的方法，如viewDidLoad，didReceiveMemoryWarning等。而在实际项目中，对于一个控制器，我们希望自带的方法并不仅仅就这些，可能更多我们会按照编码风格在任何控制器里面都会按照一定的布局方式添加一些公共的方法，如数据初始化、界面初始化；或默认设置一些参数，如控制器标题、公共pragma等。之前最初的做法是采用 <em>code snippets</em> 代码片段的形式保存并设置相应参数来统一处理。但是同样的也会出现一些问题，如小伙伴没设置<em>code snippets</em>或设置的代码片段格式不正确，或开发过程中忘记设置代码片段，都还会造成一些差异。</p>
+
+<p>但是如果有模板文件，创建时这些内容在模板文件里面都有了，上述的这些问题都可以很好的来避免了。</p>
+
+<h1>Xcode自带文件模板介绍</h1>
+
+<hr />
+
+<h1>创建自动以文件模板</h1>
+
+<hr />
+
+<h1>总结</h1>
+
+<hr />
 ]]></content>
   </entry>
   
