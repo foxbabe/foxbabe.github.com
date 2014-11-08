@@ -4,7 +4,7 @@
   <title><![CDATA[FoxBabe Dev Blog]]></title>
   <link href="devfoxbabe.com/atom.xml" rel="self"/>
   <link href="devfoxbabe.com/"/>
-  <updated>2014-11-07T13:33:27+08:00</updated>
+  <updated>2014-11-08T21:37:25+08:00</updated>
   <id>devfoxbabe.com/</id>
   <author>
     <name><![CDATA[FoxBabe]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[创建Xcode自定义文件模板]]></title>
+    <link href="devfoxbabe.com/blog/20141108/chuang-jian-xcodezi-ding-yi-wen-jian-mo-ban.html"/>
+    <updated>2014-11-08T21:37:08+08:00</updated>
+    <id>devfoxbabe.com/blog/20141108/chuang-jian-xcodezi-ding-yi-wen-jian-mo-ban</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[关于开启个人博客的初衷]]></title>
